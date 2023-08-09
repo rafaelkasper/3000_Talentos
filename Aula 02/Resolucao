@@ -1,0 +1,20 @@
+cat inicio
+cd ./misterio
+grep PISTA cena-do-crime
+grep "Annabel" pessoas
+head -n 40 ruas/Vila_Hart | tail -n 1
+cat entrevistas/entrevista-47246024
+head -n 179 ruas/Vila_Buckingham | tail -n 1
+cat entrevistas/entrevista-699607
+grep -A 5 "L337" automoveis
+cd associacoes
+cat AAA Delta_SkyMiles Biblioteca_da_Cidade Museu_da_História_do_Bash | grep -c "Joe Germuska"
+cat AAA Delta_SkyMiles Biblioteca_da_Cidade Museu_da_História_do_Bash | grep -c "Jeremy Bowers"
+cat AAA Delta_SkyMiles Biblioteca_da_Cidade Museu_da_História_do_Bash | grep -c "Jacqui Maher"
+cd ../
+grep "Jeremy Bowers" pessoas
+head -n 284 ruas/Travessa_Dunstable | tail -n 1
+cat entrevistas/entrevista-9620713
+grep "Jacqui Maher" pessoas
+head -n 224 ruas/Travessa_Andover | tail -n 1
+cat entrevistas/entrevista-904020
