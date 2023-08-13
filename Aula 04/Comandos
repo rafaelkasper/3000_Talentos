@@ -1,0 +1,74 @@
+git clone url-do-repositorio
+cd nome-repositorio
+git branch git-1
+git checkout git-1
+mkdir aulagit
+cd aulagit
+mkdir sobre-mim
+cd sobre-mim
+touch minha-bio.txt
+git status
+git add .
+git status
+git commit -m "mensagem"
+cd ../
+cd ../
+git push origin git-1
+git checkout main
+git branch git-2
+git checkout git-2
+mkdir aulagit
+cd aulagit
+mkdir sobre-mim
+cd sobre-mim
+touch musicas.txt
+git add .
+git status
+git commit -m "mensagem 2"
+cd ../
+cd ../
+git push origin git-2
+git checkout main
+git branch git-3
+git checkout git-3
+mkdir aulagit
+cd aulagit
+mkdir sobre-mim
+cd sobre-mim
+touch filmes.txt
+git add .
+git status
+git commit -m "mensagem 3"
+cd ../
+cd ../ 
+git push origin git-3
+git checkout main
+git branch git-4
+git checkout git-4
+mkdir aulagit
+cd aula git
+cd aulagit
+mkdir sobre-mim
+cd sobre-mim
+touch comidas.txt
+git add .
+git status
+git commit -m "mensagem 4"
+cd ../
+cd ../
+git push origin git-4
+git checkout main
+git branch git-5
+git checkout git-5
+mkdir aulagit
+cd aulagit
+mkdir sobre-mim
+cd sobre-mim
+touch redes-sociais.txt
+git add .
+git status
+git commit -m "mensagem 5"
+cd ../
+cd ../
+git push origin git-5
+git checkout main
