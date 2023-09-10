@@ -1,7 +1,7 @@
 Para iniciar vou dar algumas dicas de como organizar o menu principal:
 
 - Hemocentro
- ```js
+```js
 function menu() {
   var opcao = Number(
     prompt(`
@@ -38,8 +38,8 @@ function menu() {
 ```
 
 - Abrigos
-  ```js
-  function menu() {
+```js
+function menu() {
   let opcao = Number(
     prompt(`
       ===== SISTEMA DE CADASTRO DE ABRIGOS =====
