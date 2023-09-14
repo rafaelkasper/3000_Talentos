@@ -12,5 +12,8 @@ https://cwi.com.br/talentos/formacao/crescer/
 Reset - CWI - Focado em pessoas que querem migrar para a área de TI
 https://cwi.com.br/talentos/formacao/reset
 
+DIO - Bootcamp .NET + QA
+https://l.dio.me/3ZcABX0
+
 
 
